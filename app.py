@@ -8,6 +8,6 @@ def test_ligatures(num1, num2):
         return False
         
 def echo(text):
-    return text
+    return text + "?"
     
 hello_world()
